@@ -23,3 +23,24 @@ async function getUsuarios(){
 async function getCursos(){
 	// logica para traer cursos
 }
+
+async function A(){
+	// logica para la funcion
+	// mas logica para la funcion
+	// mas logica para la funcion
+	// mas logica para la funcion
+}
+
+async function B(){
+        // logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion 
+}
+
+async function C(){
+        // logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion
+}
