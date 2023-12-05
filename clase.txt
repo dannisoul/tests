@@ -3,3 +3,11 @@
 async function login(){
 	return {"name": "daniel", "password": "1234"}
 }
+
+async function authenticate(){
+	if (user){
+		return true
+	} else {
+		return false
+	}
+}
