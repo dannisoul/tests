@@ -1,6 +1,5 @@
 // aqui se declaran los metodos de prueba
 
 async function login(){
-	const user = {"name": "daniel", "password": "1234"}
-	return user
+	return {"name": "daniel", "password": "1234"}
 }
