@@ -11,3 +11,7 @@ async function authenticate(){
 		return false
 	}
 }
+
+async function register(){
+	// logica de registro
+}
