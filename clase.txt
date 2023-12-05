@@ -24,6 +24,26 @@ async function getCursos(){
 	// logica para traer cursos
 }
 
+async function D(){
+        // logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion
+}
+
+async function E(){
+        // logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion
+}
+
+async function F(){
+        // logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion
+        // mas logica para la funcion
+}
 async function A(){
 	// logica para la funcion
 	// mas logica para la funcion
