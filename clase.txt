@@ -16,6 +16,10 @@ async function register(){
 	// logica de registro
 }
 
+async function getUsuarios(){
+	// logica para traer usuarios
+}
+
 async function getCursos(){
 	// logica para traer cursos
 }
